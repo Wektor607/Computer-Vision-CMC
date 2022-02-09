@@ -1,0 +1,9 @@
+matplotlib
+moviepy
+numpy
+Pillow
+scikit-image
+pytorch
+torchvision
+tqdm
+pytest
